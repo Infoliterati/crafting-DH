@@ -64,17 +64,24 @@ Things left to try, as listed in the cheatseat
 > line breaks (yep, got it)
 > youtube videos 
 
-inline style link [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+inline style link [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 inline style link with title [sustainable authorship](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown "plain text using pandoc and markdown")
+
 Referencing style link [Crafting Digital History, Module 1 Exercises]
+
 Rerencing style link - numberered [1]
+
 Relative to repository file [one of my github files](https://github.com/Infoliterati/Spoon-Knife/blob/master/README.md)
+
 Link the [text itself]
+
 Using angle brackets around URL <http://workbook.craftingdigitalhistory.ca/module-1/Exercises/>
 (https://github.com/Infoliterati/Spoon-Knife/blob/master/README.md)
 
 [Crafting Digital History, Module 1 Exercises]: http://workbook.craftingdigitalhistory.ca/module-1/Exercises/
 [1]: http://workbook.craftingdigitalhistory.ca/module-1/Exercises/
+
 [text itself]: http://workbook.craftingdigitalhistory.ca/module-1/Exercises/
 
 **_Notes and question_**:
