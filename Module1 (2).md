@@ -106,7 +106,7 @@ Inline-style:
 **Question for Slack**
 markdown question:  I found the referencing style links interesting - eg the fact that the URLs were kept separate, or can follow later. Is the purpose to avoid cluttering up the text with long URLs?  I can see that as a "reference" they would be usefully placed at the end of the document (if visible). Through experimenting I discovered that if the square bracket with colon - [alternative text]: -  is then followed by just a URL, it doesn't show up in the output, but if there is some text in front of it, then it does show - so to make a reference visible, it needs some text, not just a URL. Is that right?  I'm also wondering if/how you can put in just text without it showing up in the preview window, or output document (as if writing a note to self).
 
-
+Adding some text as an experiment with Gitbook
 
  
 
